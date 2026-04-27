@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eFyAcLO0a+M=",
+  "dgSpecHash": "RfyeLgB6DHI=",
   "success": true,
-  "projectFilePath": "D:\\SEM VI\\.Net\\Activity\\MVC Project\\HostelManagement\\HostelManagement.csproj",
+  "projectFilePath": "D:\\SEM VI\\.Net\\Github\\ADO.NET\\MVC Project\\HostelManagement\\HostelManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anura\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\anura\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
